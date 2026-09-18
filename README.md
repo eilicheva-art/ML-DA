@@ -24,3 +24,5 @@
 * [Документация scikit-learn](https://scikit-learn.org/stable/supervised_learning.html)
 * [Документация scikit-learn на русском](https://scikit-learn.ru/stable/user_guide.html)
 
+Книги:
+- "Casual inference на Python. Причинно-следственные связи в ИТ-разработке", М. Факур
